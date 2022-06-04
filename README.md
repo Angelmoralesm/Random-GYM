@@ -1,3 +1,13 @@
+
+#Integrantes
+
+Francisco Alberto Leiva Camus, Angel Nicolas Morales Morgado, Axel Patricio Neumann Gonzalez
+
+#NOTA:
+Para ejecutar de manera correcta el proyecto es necesario contar con el archivo "node_modules" 
+dentro de la carpeta de raiz del proyecto o bien instalado de manera global en la maquina.
+Github al momento de subir los archivos no nos permitio agregarlo correctamente por su tamaño.
+
 # RandomGymAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.0.
