@@ -1,0 +1,42 @@
+{
+    "usuarios":[
+        {
+            "nombre":"Axel N.",
+            "clave":"password",
+            "mail":"Axel.neumann.g@mail.pucv.cl",
+            "sex": "M",
+            "objetivo": "Perder Peso",
+            "area": "lower",
+            "tipo": "sin",
+            "diff": "medium",
+            "peso": "62",
+            "altura":"168"
+        },
+        {
+            "nombre":"Francisco L.",
+            "clave":"M97sahskd",
+            "mail":"francisco.leiva.c@mail.pucv.cl",
+            "sex": "M",
+            "objetivo": "Tonificacion",
+            "area": "cardio",
+            "tipo": "con",
+            "diff": "veryhard",
+            "peso": "70",
+            "altura":"176"
+            
+        },
+        {
+            "nombre":"Angel M.",
+            "clave":"pass",
+            "mail":"angel.morales.m@mail.pucv.cl",
+            "sex": "M",
+            "objetivo": "Ganar Peso",
+            "area": "upper",
+            "tipo": "sin",
+            "diff": "easy",
+            "peso": "64",
+            "altura":"171"
+            
+        }
+    ]
+}
